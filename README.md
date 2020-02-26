@@ -1,2 +1,2 @@
 # multi-processor-faker
-notebook for faker csv generation using muliti-processing
+notebook for faker csv generation using multi-processing
